@@ -1,0 +1,3 @@
+interface Noleggiabile {
+    boolean disponibile();
+}
